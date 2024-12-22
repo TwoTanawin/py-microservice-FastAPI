@@ -1,0 +1,8 @@
+fastapi
+pydantic
+jwt
+httpx
+uvicorn
+python-multipart
+requests
+PyJWT
